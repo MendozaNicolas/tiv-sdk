@@ -1,0 +1,13 @@
+{
+    "name": "nmendoza/blogpackage",
+    "description": "A demo package",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+      {
+        "name": "Nicolás Mendoza",
+        "email": "nicolas.mendoza.dev@protonmail.com"
+      }
+    ],
+    "require": {}
+  }
